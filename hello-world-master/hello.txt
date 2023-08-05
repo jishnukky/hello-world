@@ -1,3 +1,3 @@
 Hello Artifactory and Sonar
 This is the edited part6
-hai this is to test event trigger
+hai this is to test even trigger
